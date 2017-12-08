@@ -1,0 +1,60 @@
+body{
+  padding:42px;
+  background-image:url(bladerunner.jpg);
+}
+
+.box{
+  text-align: center;
+  border-radius: 13px;
+  margin:16px auto;
+  background-color:white;
+}
+
+#head{
+  height:280px;
+  background-image:url(https://orig00.deviantart.net/7853/f/2017/289/f/d/blade_runner_2049___tribute__3_by_grivetart-dbqskx4.jpg);
+  padding:30px;
+  font-weight:lighter;
+  font-size:25px;
+  font-family:monospace;
+}
+#headpicture{
+  width:100px;
+  height:100px;
+	border: 3px solid white;
+	border-radius:50%;
+}
+
+#body1{
+  height:875px;
+  width:74%;
+  float:left;
+}
+
+#adv{
+  height:1785px;
+  width:23.5%;
+  float:right;
+  margin-bottom:32px;
+}
+
+#body2{
+  height:879px;
+  width:74%;
+  float:left;
+  margin-bottom:32px;
+}
+
+#foot{
+  height:290px;
+  clear:both;
+  padding:30px;
+  font-weight:lighter;
+  font-size:25px;
+  font-family:monospace;
+}
+#foot img {
+	height: 80px;
+	width: 80px;
+	margin-left: 7px;
+	margin-right: 7px
